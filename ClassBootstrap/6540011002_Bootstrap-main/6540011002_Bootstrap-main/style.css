@@ -1,0 +1,20 @@
+.navbar-brand{
+    color: yellowgreen;
+    font-size: 30px;
+}
+
+.nab-content{
+    background-color: black;
+}
+.nav-link{
+    color:white;
+}
+.port-content:hover{
+    color: blue ;
+}
+.col-3{
+    
+    border: 2px solid blue;
+}
+
+
